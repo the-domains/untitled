@@ -1,7 +1,7 @@
 name: Untitled
 favicon: null
-layout_spectrum: 0.6115661046933383
-typography_spectrum: 0.05504801846109331
+layout_spectrum: 0.24716
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.888162266695872
-  lightness: 0.2364983935840428
-  saturation: 0.7385273829568177
-  rhythmicContrast: 0.14039782457984984
+  brandStrength: 1
+  lightness: 0.875
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
